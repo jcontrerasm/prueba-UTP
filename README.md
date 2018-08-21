@@ -1,5 +1,8 @@
 El presente proyecto contiene ejemplos de funcionalidades avanzadas con react js.
 
+## Instalar los paquetes necesarios
+- Ejecutar desde la raiz el comando yarn install
+
 ## Para levantar el servidor
 - Ejecutar desde la raiz el comando yarn server
 
